@@ -1,6 +1,6 @@
 {
     "version": "1.0.3",
-    "notes": "Official release.",
+"notes": "🎉 Official Release! 🚀\n- Improvements and bug fixes\n- Performance optimization\n- New features and better compatibility with other scripts.",
     "download": "https://keymaster.fivem.net/asset-grants",
     "changelog": "https://discord.gg/JQg9Mduw"
 }
