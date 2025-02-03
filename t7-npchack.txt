@@ -2,5 +2,5 @@
     "version": "1.0.3",
     "notes": "Official release.",
     "download": "https://keymaster.fivem.net/asset-grants",
-    "changelog": "https://discord.gg/soon"
+    "changelog": "https://discord.gg/JQg9Mduw"
 }
