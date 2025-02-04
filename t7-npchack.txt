@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "notes": "🎉 Official Release! 🚀 Bug fixes, performance improvements, and better compatibility.",
     "download": "https://keymaster.fivem.net/asset-grants",
     "changelog": "https://discord.gg/JQg9Mduw"
