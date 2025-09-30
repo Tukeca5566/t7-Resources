@@ -1,6 +1,7 @@
 {
-    "version": "1.0.7",
+    "version": "1.0.8",
     "notes": "🎉 Official Release! 🚀 Bug fixes, performance improvements, and better compatibility.",
     "download": "https://keymaster.fivem.net/asset-grants",
     "changelog": "https://discord.gg/JQg9Mduw"
 }
+
