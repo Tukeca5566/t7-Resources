@@ -2,6 +2,7 @@
     "version": "0.9.9",
     "notes": "🎉 Official Release! 🚀 Bug fixes, performance improvements, and better compatibility.",
     "download": "https://portal.cfx.re/assets/granted-assets",
-    "changelog": "https://discord.gg/JQg9Mduw"
+    "changelog": "https://discord.gg/SUCny95Bxp"
 
 }
+
