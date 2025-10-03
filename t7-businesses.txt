@@ -2,5 +2,6 @@
     "version": "1.0.0",
     "notes": "🎉 Official Release! 🚀 Bug fixes, performance improvements, and better compatibility.",
     "download": "https://keymaster.fivem.net/asset-grants",
-    "changelog": "https://discord.gg/JQg9Mduw"
+    "changelog": "https://discord.gg/SUCny95Bxp"
+
 }
