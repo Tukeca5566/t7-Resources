@@ -1,10 +1,11 @@
 {
     "version": "2.2.2",
     "notes": "🎉 Official Release! 🚀 Bug fixes, performance improvements, and better compatibility.",
-    "download": "https://keymaster.fivem.net/asset-grants",
+    "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "https://discord.gg/SUCny95Bxp"
 
 }
+
 
 
 
