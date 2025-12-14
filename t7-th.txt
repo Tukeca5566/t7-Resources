@@ -1,9 +1,10 @@
 {
-    "version": "0.0.8",
+    "version": "0.0.9",
     "notes": "🎉 Official Release! 🚀 Bug fixes, performance improvements, and better compatibility.",
     "download": "https://keymaster.fivem.net/asset-grants",
     "changelog": "https://discord.gg/SUCny95Bxp"
 }
+
 
 
 
