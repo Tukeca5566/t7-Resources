@@ -1,7 +1,8 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "notes": "🎉 Official Release! 🚀 Bug fixes, performance improvements, and better compatibility.",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changelog": "https://discord.gg/SUCny95Bxp"
 }
+
 
