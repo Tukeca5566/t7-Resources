@@ -1,6 +1,7 @@
 {
-    "version": "1.0.1",
-    "notes": "Added new config options and improved performance.",
-    "download": "https://github.com/Tukeca5566/t7-Resources",
-    "changelog": "https://github.com/Tukeca5566/t7-Resources/blob/main/CHANGELOG.md"
+    "version": "1.0.0",
+    "notes": "🎉 Official Release! 🚀 Bug fixes, performance improvements, and better compatibility.",
+    "download": "https://portal.cfx.re/assets/granted-assets",
+    "changelog": "https://discord.gg/SUCny95Bxp"
+
 }
